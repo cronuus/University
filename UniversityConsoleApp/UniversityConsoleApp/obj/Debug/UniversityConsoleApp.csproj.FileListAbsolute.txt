@@ -1,0 +1,14 @@
+C:\Users\LabUser08\Desktop\Do not touch\New folder (7)\UniversityConsoleApp\bin\Debug\UniversityConsoleApp.exe.config
+C:\Users\LabUser08\Desktop\Do not touch\New folder (7)\UniversityConsoleApp\bin\Debug\UniversityConsoleApp.exe
+C:\Users\LabUser08\Desktop\Do not touch\New folder (7)\UniversityConsoleApp\bin\Debug\UniversityConsoleApp.pdb
+C:\Users\LabUser08\Desktop\Do not touch\New folder (7)\UniversityConsoleApp\obj\Debug\UniversityConsoleApp.csprojAssemblyReference.cache
+C:\Users\LabUser08\Desktop\Do not touch\New folder (7)\UniversityConsoleApp\obj\Debug\UniversityConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LabUser08\Desktop\Do not touch\New folder (7)\UniversityConsoleApp\obj\Debug\UniversityConsoleApp.exe
+C:\Users\LabUser08\Desktop\Do not touch\New folder (7)\UniversityConsoleApp\obj\Debug\UniversityConsoleApp.pdb
+C:\Users\LabUser08\Desktop\UniversityConsoleApp\UniversityConsoleApp\obj\Debug\UniversityConsoleApp.csprojAssemblyReference.cache
+C:\Users\LabUser08\Desktop\UniversityConsoleApp\UniversityConsoleApp\obj\Debug\UniversityConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LabUser08\Desktop\UniversityConsoleApp\UniversityConsoleApp\obj\Debug\UniversityConsoleApp.exe
+C:\Users\LabUser08\Desktop\UniversityConsoleApp\UniversityConsoleApp\obj\Debug\UniversityConsoleApp.pdb
+C:\Users\LabUser08\Desktop\UniversityConsoleApp\UniversityConsoleApp\bin\Debug\UniversityConsoleApp.exe.config
+C:\Users\LabUser08\Desktop\UniversityConsoleApp\UniversityConsoleApp\bin\Debug\UniversityConsoleApp.exe
+C:\Users\LabUser08\Desktop\UniversityConsoleApp\UniversityConsoleApp\bin\Debug\UniversityConsoleApp.pdb
